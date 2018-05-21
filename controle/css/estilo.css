@@ -1,0 +1,316 @@
+.menu{
+	height: 100px;
+	color: #fff;
+	text-align: center;
+	font-size: 90px;
+	margin-top: -15px;
+
+}
+.menu h2{
+	margin-top: 25px !important;
+	color: #fff !important;
+}
+.menu form{
+	margin-top: 25px !important;
+	font-size: 20px !important;
+
+}
+.form{
+	float: right;
+	margin-left: 400px;
+	color: #fff;
+}
+.form label{
+	margin:0px 10px;
+}
+.center{
+	float:none;
+	margin: 20px auto;
+	width: 450px;
+}
+.center label{
+	color: #fff;
+	font-size: 15px;
+}
+.itens{
+	font-size: 20px;
+	color: #fff;
+	padding: 10px;
+}
+.li{
+	padding: 10px;
+}
+.li h3{
+	float: right !important;
+}
+.itens h6{
+	padding-top: 10px;
+}
+.itens h3{
+	color: #fff !important;
+}
+.itens a{
+	color: #fff;
+	text-decoration:none; 
+}
+.itens a:visited{
+	color: #fff;
+	text-decoration: none;
+}
+
+.itens ol{
+	list-style: none;
+	margin: 0px auto;
+	margin-top: 10px;
+	margin-left: 100px;
+}
+.itens ol li{
+	float: left;
+	padding: 20px 5px;
+}
+.itens ol li:hover{
+	color: yellow;
+}
+.itens ol li h3 b:hover{
+	color: yellow;
+}
+.menu label{
+	margin-right: 10px;
+}
+.menu form input{
+	margin-right: 7px;
+}
+.img-carousel{
+	height: 500px;
+}
+.divi{
+	padding: 10px;
+	border:solid 2px #000;
+	text-align: left;
+	margin-bottom: 15px;
+}
+.divisoria{
+	padding: 10px;
+	border:solid 2px #000;
+	text-align: center;
+	margin-bottom: 15px;
+}
+.divisoria blockquote{
+	margin:30px;
+	color: #000 !important;
+}
+.bg-dark h1,h2,h3{
+	color: #fff;
+}
+
+#formCadastro{
+	color: #fff;
+	text-align: center;
+}
+.formulario{
+	padding: 10px;
+	border: #000 2px solid;
+}
+.input{
+	width: 60%;
+	margin: 5px auto;
+}
+.img{
+	width: 100%;
+	height: 200px;
+}
+.container{
+	margin-top:15px; 
+}
+.img-link{
+	width: 100%;
+	height: 300px;
+	margin-bottom: 15px;
+}
+.img-link:hover{
+	cursor: pointer;
+}
+.caixa{
+	border: #000 solid 2px;
+	margin: 10px auto;
+	padding: 10px;
+	width: 700px;
+	text-align: center;
+}
+.caixa-formulario{
+	border: #000 solid 2px;
+	width: 500px;
+	margin: 10px auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff; 
+}
+.olho:hover{
+	cursor: pointer;
+}
+.left{
+	text-align: left;
+}
+.sub_container{
+	margin: 20px auto;
+	height: 400px;
+	color: #fff !important;
+	border: #000 solid 2px;
+	border-radius: 10px;
+	padding: 10px ;
+}
+.link_ajax:hover{
+	cursor: pointer;
+	text-decoration: underline;
+	text-decoration-color: yellow;
+}
+.input-edit{
+	width: 300px !important;
+	margin: 0px auto;
+	margin-bottom: 25px;
+	margin-top: 5px;
+}
+.btn-icon{
+	background-image: url("../../img/icons/send/web/ic_send_black_24dp_2x.png");
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	/*height: 40px;
+	width: 50px;*/
+	padding: 20px;
+
+}
+.btn-edit{
+	margin-top: -25px;
+}
+.titulo{
+	font-size: 90px;
+	text-align: center;
+	margin-top: -40px;
+}
+.preto{
+	color: #000;
+	
+	padding: 10px;
+}
+.branco{
+	color: #fff;
+}
+.aparecer{
+	display: none;
+	width: 100%;
+}
+.lembretes{
+	height: 1000px;
+	padding: 10px;
+	box-shadow: 1px 1px 10px #000;
+	overflow: auto;
+	border-radius: 10px;
+}
+.lembretes hr{
+	background: #fff;
+}
+.center-text{
+	text-align: center;
+}
+.lembrete{
+	padding: 10px;
+	border-radius: 10px;
+}
+.top{
+	margin-top: 39px;
+}
+.cicle{
+	margin: 20px auto;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+}
+.titulo-simples{
+	width: 100%;
+	padding: 10px;
+	border-radius: 10px;
+	border:1px solid #000;
+}
+.saldo{
+	font-size: 150px;
+	margin-bottom: 100px;
+	margin-top: 100px;
+}
+.btn_conta{
+	width: 300px;
+	margin-right: 0px;
+}
+.center-lg{
+	width: 80%;
+	margin: 0 auto;
+}
+.inline{
+	display: inline;
+}
+.min{
+	width: 100px;
+	height: 20px;
+	padding: 0;
+	font-size: 10px;
+
+}
+.btn_salario{
+	
+}
+table{
+	text-align: center;
+	padding: 10px !important;
+	width: 90% !important;
+	overflow: auto;
+}
+.center-table{
+	margin: 0 auto !important;
+}
+th{
+	border-bottom: 1px #ccc solid;
+	padding: 20px !important;
+}
+footer{
+	margin-top: 10px;
+	height: 300px;
+}
+footer ol{
+	list-style: none;
+	padding: 5px;
+	color: #fff;
+}
+footer ol a li h2{
+	color: #fff !important;
+}
+@media only screen and (max-width: 888px){
+	.sumir{
+		display: none;
+	}
+	.aparecer{
+		display: block;
+
+	}
+	.formulario{
+		width: 100% !important;
+	}
+
+}
+@media only screen and (max-width: 1199px){
+	.sumir{
+		display: none;
+	}
+	.aparecer{
+		display: block;
+	}
+}
+@media (max-width: 575.98px) {
+	.saldo{
+		font-size: 80px;
+	}
+}
+@media (max-width: 991px){
+	.saldo{
+		font-size: 50px;
+	}
+}
